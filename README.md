@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessyDT
 - 👀 I’m interested in 
-- 🌱 I’m currently learning javascri and php
+- 🌱 I’m currently learning javascript and php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
